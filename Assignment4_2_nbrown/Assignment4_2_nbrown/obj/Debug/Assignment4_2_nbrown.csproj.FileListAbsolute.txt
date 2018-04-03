@@ -1,0 +1,5 @@
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment4_2_nbrown\Assignment4_2_nbrown\bin\Debug\Assignment4_2_nbrown.exe.config
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment4_2_nbrown\Assignment4_2_nbrown\bin\Debug\Assignment4_2_nbrown.exe
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment4_2_nbrown\Assignment4_2_nbrown\bin\Debug\Assignment4_2_nbrown.pdb
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment4_2_nbrown\Assignment4_2_nbrown\obj\Debug\Assignment4_2_nbrown.exe
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment4_2_nbrown\Assignment4_2_nbrown\obj\Debug\Assignment4_2_nbrown.pdb
