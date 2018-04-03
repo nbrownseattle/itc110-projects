@@ -1,0 +1,6 @@
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment7_1_nbrown\Assignment7_1_nbrown\bin\Debug\Assignment7_1_nbrown.exe.config
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment7_1_nbrown\Assignment7_1_nbrown\obj\Debug\Assignment7_1_nbrown.csprojResolveAssemblyReference.cache
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment7_1_nbrown\Assignment7_1_nbrown\bin\Debug\Assignment7_1_nbrown.exe
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment7_1_nbrown\Assignment7_1_nbrown\bin\Debug\Assignment7_1_nbrown.pdb
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment7_1_nbrown\Assignment7_1_nbrown\obj\Debug\Assignment7_1_nbrown.exe
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment7_1_nbrown\Assignment7_1_nbrown\obj\Debug\Assignment7_1_nbrown.pdb

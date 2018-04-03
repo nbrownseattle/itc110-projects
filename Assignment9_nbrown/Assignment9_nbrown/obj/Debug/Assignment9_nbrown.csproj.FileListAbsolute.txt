@@ -1,0 +1,17 @@
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\bin\Debug\Assignment9_nbrown.exe.config
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\bin\Debug\Assignment9_nbrown.exe
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\bin\Debug\Assignment9_nbrown.pdb
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown.csprojResolveAssemblyReference.cache
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\MainWindow.g.cs
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\App.g.cs
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown_MarkupCompile.cache
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown_MarkupCompile.lref
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\MainWindow.baml
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown.g.resources
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown.Properties.Resources.resources
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown.csproj.GenerateResource.Cache
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown.exe
+c:\users\nebrown\documents\visual studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown.pdb
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\bin\Debug\Assignment9_nbrown.exe.config
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown.exe
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment9_nbrown\Assignment9_nbrown\obj\Debug\Assignment9_nbrown.pdb
