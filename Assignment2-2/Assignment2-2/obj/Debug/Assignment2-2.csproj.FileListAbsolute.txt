@@ -1,0 +1,6 @@
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment2-2\Assignment2-2\bin\Debug\Assignment2-2.exe.config
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment2-2\Assignment2-2\bin\Debug\Assignment2-2.exe
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment2-2\Assignment2-2\bin\Debug\Assignment2-2.pdb
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment2-2\Assignment2-2\obj\Debug\Assignment2-2.csprojResolveAssemblyReference.cache
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment2-2\Assignment2-2\obj\Debug\Assignment2-2.exe
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment2-2\Assignment2-2\obj\Debug\Assignment2-2.pdb
