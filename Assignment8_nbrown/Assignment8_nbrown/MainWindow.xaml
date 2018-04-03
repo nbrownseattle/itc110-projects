@@ -1,0 +1,28 @@
+﻿<Window x:Class="Assignment8_nbrown.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment8_nbrown"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label1" Content="Tip Calculator" HorizontalAlignment="Left" Margin="56,10,0,0" VerticalAlignment="Top" Width="93" FontWeight="Bold"/>
+        <TextBox x:Name="textBoxmealamount" HorizontalAlignment="Left" Height="23" Margin="150,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" AcceptsReturn="True"/>
+        <Label x:Name="label2" Content="Enter Meal Amount" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="label3" Content="Chose Tip Amount" HorizontalAlignment="Left" Margin="10,108,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <RadioButton x:Name="radioButtonten" Content="10%" HorizontalAlignment="Left" Margin="113,139,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButtonfifteen" Content="15%" HorizontalAlignment="Left" Margin="113,173,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButtontwenty" Content="20%" HorizontalAlignment="Left" Margin="113,208,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButtonother" Content="Other Amount" HorizontalAlignment="Left" Margin="113,241,0,0" VerticalAlignment="Top" />
+        <TextBox x:Name="textBoxother" HorizontalAlignment="Left" Height="23" Margin="113,261,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="buttonSbmit" Content="Calculate" HorizontalAlignment="Left" Margin="113,289,0,0" VerticalAlignment="Top" Width="75" Click="buttonSbmit_Click"/>
+        <Label x:Name="label" Content="Tax Amount Is:" HorizontalAlignment="Left" Margin="284,162,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Tip Amount Is:" HorizontalAlignment="Left" Margin="284,201,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.658,2.923"/>
+        <Label x:Name="label4" Content="Total" HorizontalAlignment="Left" Margin="284,241,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="textBoxtax" HorizontalAlignment="Left" Height="23" Margin="376,166,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="textBoxtip" HorizontalAlignment="Left" Height="23" Margin="376,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBoxtotal" HorizontalAlignment="Left" Height="23" Margin="376,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

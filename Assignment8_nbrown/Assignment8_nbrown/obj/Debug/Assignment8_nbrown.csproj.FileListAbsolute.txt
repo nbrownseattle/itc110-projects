@@ -1,0 +1,14 @@
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\bin\Debug\Assignment8_nbrown.exe.config
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\Assignment8_nbrown.csprojResolveAssemblyReference.cache
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\MainWindow.g.cs
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\App.g.cs
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\Assignment8_nbrown_MarkupCompile.cache
+c:\users\nbrown\documents\visual studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\Assignment8_nbrown_MarkupCompile.lref
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\bin\Debug\Assignment8_nbrown.exe
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\bin\Debug\Assignment8_nbrown.pdb
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\MainWindow.baml
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\Assignment8_nbrown.g.resources
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\Assignment8_nbrown.Properties.Resources.resources
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\Assignment8_nbrown.csproj.GenerateResource.Cache
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\Assignment8_nbrown.exe
+C:\Users\nbrown\Documents\Visual Studio 2015\Projects\Assignment8_nbrown\Assignment8_nbrown\obj\Debug\Assignment8_nbrown.pdb
